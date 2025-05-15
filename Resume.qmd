@@ -1,0 +1,49 @@
+---
+title: "Resume"
+---
+
+Attached here is a viewable version of my resume.
+
+![Sravani Viswanadha's Resume](_site/Sravani%20Viswanadha%20Resume.pdf){fig-align="center"}
+
+## Professional Summary
+
+Motivated Data and Systems Analyst specializing in database design and management. Innovative work in data visualization for communicating data-driven insights to key stakeholders.
+
+## Technical Skills
+
+Tableau \| MS Excel \| Qualtrics \| R/RStudio \| MySQL Workbench \| MS Access \| SAP Hana \| UML \| Dedoose \| Qualitative Analysis \| Python \| SwiftUI \| Effective ChatGPT Use
+
+## Education
+
+### California State Polytechnic University \| Pomona, CA \| 2023 - 2025
+
+MBA with focused electives in Data Wrangling & Visualization and Project Management.
+
+### San Francisco State University \| San Francisco, CA \| 2020 - 2023
+
+BS in Business Administration - Information Systems
+
+#### SAP Recognition Award from San Francisco State University:
+
+Awarded certificate for completing coursework supported by SAP Product Portfolio at SFSU.
+
+### Google Advanced Data Analytics Certificate Program \| Remote, CA \| 2023 - 2024
+
+Learned PACE framework with Python and Tableau.
+
+## Work Experience
+
+### Associated Students Inc. \@ CPP \| Data Analyst \| Jul 2024 - Present
+
+Collaborating with Ops, Finance, and HR teams on data-related projects, including research, survey creation, data cleaning, analysis, ML models, report writing, and dashboard creation.
+
+Projects: Developed a financial services customer database on DBMS Microsoft Access for budget reporting and data storage, as well as all relevant SOPs and guides on using MS Access and the database (available upon request). Researching ERP systems for improved ASICPP financial reporting. Using ChatGPT for ideas on an optimal schema design.
+
+### Tutoring and Academic Support Center \@ SFSU \| Quantitative Business Tutor \| Feb 2023 - May 2023
+
+Tutored 25+ students across Data Analysis, Database Design and Management, business and statistics courses offered at SFSU.
+
+### Inclusive World \| Data Management Intern \| Jun 2022 - Sep 2022
+
+Re-organized databases and improved reporting accuracy across 10+ years of data in preparation for Salesforce integration.

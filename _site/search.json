@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sravani Viswanadha",
+    "section": "",
+    "text": "Hello! I’m Sravani, an analyst and current MBA student at Cal Poly Pomona.\nI specialize in many aspects of data management. As a Information Systems graduate from San Francisco State University, I learned how to design and build databases and business systems. I also learned how to manage, wrangle and visualize data from my works at Inclusive World and Cal Poly Pomona ASI. My current focus is on System Analysis and Database Management. However, I am open to learning and experiencing different data-related work, so please feel free to connect with me!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sravani Viswanadha",
+    "section": "Education",
+    "text": "Education\nCalifornia State Polytechnic University | Pomona, CA | 2023 - 2025\nSan Francisco State University | San Francisco, CA | 2020 - 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sravani Viswanadha",
+    "section": "Experience",
+    "text": "Experience\nAssociated Students Inc. @ CPP | Data Analyst | Jul 2024 - Present\nSFSU TASC | Quantitative Business Tutor | Feb 2023 - May 2023\nInclusive World | Data Management Intern | Jul 2022 - Sep 2022"
+  },
+  {
+    "objectID": "ProjectsPage.html",
+    "href": "ProjectsPage.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Write about project"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Data Analytics",
+    "section": "",
+    "text": "An app that bridges the gap for musicians starting to expand their career. Essentially working like a job search algorithm, artists can create a user profile with all their relevant criteria, such as equipment needed, pay, genre, set list, set length, location, etc., including a way for artists to create an online portfolio showcasing some of their music or live performances.\nAlong with that, venues create similar profiles, showcasing their venue, what equipment they carry, compensation, genre, set length required, location, etc.\nThen, artists and venues are matched by most relevant criteria met. This allows artists and venues to find each other without the need of pre-existing personal connections, something that people in the music industry often struggle with. Check out the SwiftUI mock below:\nGigReg SwiftUI"
+  },
+  {
+    "objectID": "Projects.html#main-project-gigreg",
+    "href": "Projects.html#main-project-gigreg",
+    "title": "Data Analytics",
+    "section": "",
+    "text": "An app that bridges the gap for musicians starting to expand their career. Essentially working like a job search algorithm, artists can create a user profile with all their relevant criteria, such as equipment needed, pay, genre, set list, set length, location, etc., including a way for artists to create an online portfolio showcasing some of their music or live performances.\nAlong with that, venues create similar profiles, showcasing their venue, what equipment they carry, compensation, genre, set length required, location, etc.\nThen, artists and venues are matched by most relevant criteria met. This allows artists and venues to find each other without the need of pre-existing personal connections, something that people in the music industry often struggle with. Check out the SwiftUI mock below:\nGigReg SwiftUI"
+  },
+  {
+    "objectID": "Projects.html#side-project-nintendo-market-analysis",
+    "href": "Projects.html#side-project-nintendo-market-analysis",
+    "title": "Data Analytics",
+    "section": "Side Project: Nintendo Market Analysis",
+    "text": "Side Project: Nintendo Market Analysis\nNintendo recently announced the release of a new console: the Switch 2. However, historically, Nintendo has created successor consoles to main consoles that have flopped in many different ways. What can Nintendo do to help prevent this pattern with the Switch 2? More to come soon."
+  },
+  {
+    "objectID": "Projects.html#work-project-asicpp-financial-services-budget-database",
+    "href": "Projects.html#work-project-asicpp-financial-services-budget-database",
+    "title": "Data Analytics",
+    "section": "Work Project: ASI@CPP Financial Services Budget Database",
+    "text": "Work Project: ASI@CPP Financial Services Budget Database\nAssociated Students Inc. Cal Poly Pomona has many financial records to keep track of. However, the team was using Microsoft Excel to store all of this data across many years, which is insecure and unreliable due to low storage capabilities. I am currently working on creating a database for the ASI Financial Services team to store all of their data in and create reports effortlessly using SQL queries. More details to come."
+  },
+  {
+    "objectID": "Aboutme.html",
+    "href": "Aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My unique skill set comes from a variety of work and school experience. In 2022, I interned at Inclusive World, an organization that works with differently abled individuals in the Bay Area. I worked on Data Management, primarily focusing on re-organizing the 10 years’ worth of financial data for the organization to prepare for integration with Salesforce. During this time, I also trained an intern in Microsoft Excel shortcuts, exercising my love for teaching and helping.\nThe internship further enforced my interest in this field, and I went on to declare my major as Business Administration with a concentration in Information Systems, and learned various tools such as Python, MS Access, mySQL, SAP Hana, SwiftUI and MS Project. In my final year of undergraduate coursework, I worked as a quantitative business tutor at San Francisco State University, where I tutored business students who needed extra help in learning how to use these tools. In 2023, I obtained a B.S. In Business Administration-Information Systems, as well as an SAP Student Recognition Award. I also obtained a Business Innovation Award and won 3rd place in the SFSU CS Pitch Competition for my original business application idea, GigReg, which uses my love for technology and music to bridge a major gap in the music industry.\nI started the MBA program at Cal Poly Pomona in Fall 2023, learning about many new interesting business topics, such as Operations and Supply Chain, Business and Law, and Data Analysis and Modeling. Most recently, I began working as a Data Analyst at Cal Poly Pomona ASI, where I streamline processes for the operations team, as well as generate reports and dashboards, analyze qualitative and quantitative data, and create work forms. Currently, I am using Microsoft’s DBMS system, Access, for building and implementing a new reporting system for the financial services team, which will be used temporarily as I research into new ERP systems that better suit organizational needs.\nIn my spare time, I enjoy learning new musical instruments that support my passion for songwriting. I currently sing and play the guitar and bass, and I have played various instruments throughout middle school, high school and college. I hope to continue balancing my interests in music and technology as I advance in my career. I’m always looking to expand my network, so please feel free to reach out and connect!"
+  },
+  {
+    "objectID": "Aboutme.html#education",
+    "href": "Aboutme.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nCalifornia State Polytechnic University | Pomona, CA | 2023 - 2025\nSan Francisco State University | San Francisco, CA | 2020 - 2023"
+  },
+  {
+    "objectID": "Aboutme.html#experience",
+    "href": "Aboutme.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nAssociated Students Inc. @ CPP | Data Analyst | Jul 2024 - Present\nTutoring and Academic Support Center @ SFSU | Quantitative Business Tutor | Feb 2023 - May 2023\nInclusive World | Data Management Intern | Jun 2022 - Sep 2022"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Attached here is a viewable version of my resume."
+  },
+  {
+    "objectID": "Resume.html#resume",
+    "href": "Resume.html#resume",
+    "title": "Resume",
+    "section": "",
+    "text": "Attached here is a viewable version of my resume.\n\n\n\nSravani Viswanadha’s Resume"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/second-post/index.html",
+    "href": "blog/second-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+  },
+  {
+    "objectID": "Resume.html#professional-summary",
+    "href": "Resume.html#professional-summary",
+    "title": "Resume",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nMotivated Data and Systems Analyst specializing in database design and management. Innovative work in data visualization for communicating data-driven insights to key stakeholders."
+  },
+  {
+    "objectID": "Resume.html#technical-skills",
+    "href": "Resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nTableau | MS Excel | Qualtrics | R/RStudio | MySQL Workbench | MS Access | SAP Hana | UML | Dedoose | Qualitative Analysis | Python | SwiftUI | Effective ChatGPT Use"
+  },
+  {
+    "objectID": "Resume.html#education",
+    "href": "Resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nCalifornia State Polytechnic University | Pomona, CA | 2023 - 2025\nMBA with focused electives in Data Wrangling & Visualization and Project Management.\n\n\nSan Francisco State University | San Francisco, CA | 2020 - 2023\nBS in Business Administration - Information Systems\n\nSAP Recognition Award from San Francisco State University:\nAwarded certificate for completing coursework supported by SAP Product Portfolio at SFSU.\n\n\n\nGoogle Advanced Data Analytics Certificate Program | Remote, CA | 2023 - 2024\nLearned PACE framework with Python and Tableau."
+  },
+  {
+    "objectID": "Resume.html#work-experience",
+    "href": "Resume.html#work-experience",
+    "title": "Resume",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nAssociated Students Inc. @ CPP | Data Analyst | Jul 2024 - Present\nCollaborating with Ops, Finance, and HR teams on data-related projects, including research, survey creation, data cleaning, analysis, ML models, report writing, and dashboard creation.\nProjects: Developed a financial services customer database on DBMS Microsoft Access for budget reporting and data storage, as well as all relevant SOPs and guides on using MS Access and the database (available upon request). Researching ERP systems for improved ASICPP financial reporting. Using ChatGPT for ideas on an optimal schema design.\n\n\nTutoring and Academic Support Center @ SFSU | Quantitative Business Tutor | Feb 2023 - May 2023\nTutored 25+ students across Data Analysis, Database Design and Management, business and statistics courses offered at SFSU.\n\n\nInclusive World | Data Management Intern | Jun 2022 - Sep 2022\nRe-organized databases and improved reporting accuracy across 10+ years of data in preparation for Salesforce integration."
+  }
+]

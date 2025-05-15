@@ -1,0 +1,22 @@
+---
+title: Data Analytics
+subtitle: Take a look at some of the projects I am currently working on!
+---
+
+## Main Project: GigReg
+
+An app that bridges the gap for musicians starting to expand their career. Essentially working like a job search algorithm, artists can create a user profile with all their relevant criteria, such as equipment needed, pay, genre, set list, set length, location, etc., including a way for artists to create an online portfolio showcasing some of their music or live performances.
+
+Along with that, venues create similar profiles, showcasing their venue, what equipment they carry, compensation, genre, set length required, location, etc.
+
+Then, artists and venues are matched by most relevant criteria met. This allows artists and venues to find each other without the need of pre-existing personal connections, something that people in the music industry often struggle with. Check out the SwiftUI mock below:
+
+[GigReg SwiftUI](https://github.com/sravanivis/GigRegProject)
+
+## Side Project: Nintendo Market Analysis
+
+Nintendo recently announced the release of a new console: the Switch 2. However, historically, Nintendo has created successor consoles to main consoles that have flopped in many different ways. What can Nintendo do to help prevent this pattern with the Switch 2? More to come soon.
+
+## Work Project: ASI\@CPP Financial Services Budget Database
+
+Associated Students Inc. Cal Poly Pomona has many financial records to keep track of. However, the team was using Microsoft Excel to store all of this data across many years, which is insecure and unreliable due to low storage capabilities. I am currently working on creating a database for the ASI Financial Services team to store all of their data in and create reports effortlessly using SQL queries. More details to come.

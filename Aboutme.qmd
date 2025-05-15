@@ -1,0 +1,26 @@
+---
+title: About Me
+subtitle: Sravani Viswanadha
+---
+
+My unique skill set comes from a variety of work and school experience. In 2022, I interned at Inclusive World, an organization that works with differently abled individuals in the Bay Area. I worked on Data Management, primarily focusing on re-organizing the 10 years' worth of financial data for the organization to prepare for integration with Salesforce. During this time, I also trained an intern in Microsoft Excel shortcuts, exercising my love for teaching and helping.
+
+The internship further enforced my interest in this field, and I went on to declare my major as Business Administration with a concentration in Information Systems, and learned various tools such as Python, MS Access, mySQL, SAP Hana, SwiftUI and MS Project. In my final year of undergraduate coursework, I worked as a quantitative business tutor at San Francisco State University, where I tutored business students who needed extra help in learning how to use these tools. In 2023, I obtained a B.S. In Business Administration-Information Systems, as well as an SAP Student Recognition Award. I also obtained a Business Innovation Award and won 3rd place in the SFSU CS Pitch Competition for my original business application idea, GigReg, which uses my love for technology and music to bridge a major gap in the music industry.
+
+I started the MBA program at Cal Poly Pomona in Fall 2023, learning about many new interesting business topics, such as Operations and Supply Chain, Business and Law, and Data Analysis and Modeling. Most recently, I began working as a Data Analyst at Cal Poly Pomona ASI, where I streamline processes for the operations team, as well as generate reports and dashboards, analyze qualitative and quantitative data, and create work forms. Currently, I am using Microsoft's DBMS system, Access, for building and implementing a new reporting system for the financial services team, which will be used temporarily as I research into new ERP systems that better suit organizational needs.
+
+In my spare time, I enjoy learning new musical instruments that support my passion for songwriting. I currently sing and play the guitar and bass, and I have played various instruments throughout middle school, high school and college. I hope to continue balancing my interests in music and technology as I advance in my career. I'm always looking to expand my network, so please feel free to reach out and connect!
+
+## Education
+
+California State Polytechnic University \| Pomona, CA \| 2023 - 2025
+
+San Francisco State University \| San Francisco, CA \| 2020 - 2023
+
+## Experience
+
+Associated Students Inc. \@ CPP \| Data Analyst \| Jul 2024 - Present
+
+Tutoring and Academic Support Center \@ SFSU \| Quantitative Business Tutor \| Feb 2023 - May 2023
+
+Inclusive World \| Data Management Intern \| Jun 2022 - Sep 2022

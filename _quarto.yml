@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sravani Viswanadha"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made by Sravani Viswanadha in Quarto | sravaniviswanadha@gmail.com"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About Me
+        href: Aboutme.qmd
+      - text: Data Analytics
+        href: Projects.qmd
+      - Resume.qmd
+
+    tools:
+      - icon: github
+        href: https://github.com/sravanivis
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sravani-viswanadha-392a67200/
+format:
+  html:
+    backgroundcolor: "#E8DEEA"
+    linkcolor: "black"
+    mainfont: "sarif"
+    fontsize: 17px
+    theme: [cosmo, styles.scss]
+

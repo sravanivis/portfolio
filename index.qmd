@@ -1,0 +1,18 @@
+---
+title: "Sravani Viswanadha"
+subtitle: "Data and Systems Analyst"
+image: DSC_0957.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sravanivis
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sravani-viswanadha-392a67200/
+
+---
+Hello! I'm Sravani, an analyst and current MBA student at Cal Poly Pomona. 
+
+I specialize in many aspects of data management. As a Information Systems graduate from San Francisco State University, I learned how to design and build databases and business systems. I also learned how to manage, wrangle and visualize data from my works at Inclusive World and Cal Poly Pomona ASI. My current focus is on System Analysis and Database Management. However, I am open to learning and experiencing different data-related work, so please feel free to connect with me!
